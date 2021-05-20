@@ -1,0 +1,23 @@
+{
+  "name": "vvtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfniederauer/vvtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfniederauer/vvtest/issues"
+  },
+  "homepage": "https://github.com/cfniederauer/vvtest#readme",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
