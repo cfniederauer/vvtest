@@ -3,17 +3,21 @@
 
 ### Checking version node/npm
  
- node -v
- npm -v
+ ``node -v``
+ ``npm -v``
 
 ### How to execute the project?
 
-# Clone the repository
+###### Clone the repository
  $ git clone https://github.com/cfniederauer/vvtest
 
-# Open Cypress
+###### Install Cypress
+
+ ``npm install cypress``
+
+###### Open Cypress
  
- npm run cypress:open
+ ``npm run cypress:open``
 
 ### Project structure
 
